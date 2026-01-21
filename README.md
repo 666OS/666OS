@@ -1,10 +1,21 @@
-- 👋 你好，我是666
-- 👀 我对编程、设计、网络VPN技术和人工智能非常感兴趣
-- 🌱 我目前正在学习全栈开发、机器学习以及网络安全
-- 💞️ 我希望能在开源项目、AI研究和网络安全领域与大家合作
-- ⚡ 趣味小知识：我曾在一天内写完一个完整的应用程序，并使用AI优化了代码效率
+### 👋 Hi, I'm 666OS
 
-<!---
-666os/666os is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Independent macOS Developer** crafting native apps with SwiftUI & Swift.
+
+#### 🚀 Featured Project
+- **[ClashMac](https://clashmac.app)** — A native macOS proxy client with visualization features
+
+#### 🔧 Tech Stack
+`Swift` `SwiftUI` `macOS` `Network Extension` `JavaScript` `AI-assisted Development`
+
+#### 💡 Interests
+- Native macOS app development
+- Network protocols & privacy tools
+- AI-powered coding workflows
+
+#### 📫 Connect
+- Website: [clashmac.app](https://clashmac.app)
+
+---
+
+*🐱 Fun fact: ClashMac's logo is inspired by my cat "五花肉" (Wuhuarou)*
